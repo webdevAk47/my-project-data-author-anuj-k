@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: none;
+}
+.div-space {
+  height: 5vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  width: auto;
+  background-color: none;
+}
+.div-space-2 {
+  height: 3vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  width: auto;
+  background-color: none;
+}
+body {
+  background-color: none;
+}
+.form {
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
